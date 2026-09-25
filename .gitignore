@@ -1,0 +1,4 @@
+database_*.csv
+conversor.py
+descartes/
+.DS_Store

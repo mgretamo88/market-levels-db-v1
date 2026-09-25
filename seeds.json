@@ -1,0 +1,2670 @@
+{
+  "provider": "QC_DATA",
+  "description": "Daily Options Market Structure & Gamma Levels",
+  "symbols": [
+    {
+      "symbol": "AA",
+      "name": "AA Options Walls",
+      "file": "data/AA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "AAPL Options Walls",
+      "file": "data/AAPL.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ABBV",
+      "name": "ABBV Options Walls",
+      "file": "data/ABBV.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ABT",
+      "name": "ABT Options Walls",
+      "file": "data/ABT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ADI",
+      "name": "ADI Options Walls",
+      "file": "data/ADI.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ADM",
+      "name": "ADM Options Walls",
+      "file": "data/ADM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "AEE",
+      "name": "AEE Options Walls",
+      "file": "data/AEE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "AEP",
+      "name": "AEP Options Walls",
+      "file": "data/AEP.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "AFL",
+      "name": "AFL Options Walls",
+      "file": "data/AFL.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ALB",
+      "name": "ALB Options Walls",
+      "file": "data/ALB.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "AMAT",
+      "name": "AMAT Options Walls",
+      "file": "data/AMAT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD Options Walls",
+      "file": "data/AMD.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "AMGN",
+      "name": "AMGN Options Walls",
+      "file": "data/AMGN.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "AMT",
+      "name": "AMT Options Walls",
+      "file": "data/AMT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "name": "AMZN Options Walls",
+      "file": "data/AMZN.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ANET",
+      "name": "ANET Options Walls",
+      "file": "data/ANET.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "APA",
+      "name": "APA Options Walls",
+      "file": "data/APA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "APD",
+      "name": "APD Options Walls",
+      "file": "data/APD.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "APP",
+      "name": "APP Options Walls",
+      "file": "data/APP.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "AR",
+      "name": "AR Options Walls",
+      "file": "data/AR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ARE",
+      "name": "ARE Options Walls",
+      "file": "data/ARE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "AVGO Options Walls",
+      "file": "data/AVGO.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "AWK",
+      "name": "AWK Options Walls",
+      "file": "data/AWK.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "AXP",
+      "name": "AXP Options Walls",
+      "file": "data/AXP.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "AZO",
+      "name": "AZO Options Walls",
+      "file": "data/AZO.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "BA",
+      "name": "BA Options Walls",
+      "file": "data/BA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "BAC",
+      "name": "BAC Options Walls",
+      "file": "data/BAC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "BALL",
+      "name": "BALL Options Walls",
+      "file": "data/BALL.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "BBY",
+      "name": "BBY Options Walls",
+      "file": "data/BBY.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "BKNG",
+      "name": "BKNG Options Walls",
+      "file": "data/BKNG.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "BKR",
+      "name": "BKR Options Walls",
+      "file": "data/BKR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "BLK",
+      "name": "BLK Options Walls",
+      "file": "data/BLK.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "BMY",
+      "name": "BMY Options Walls",
+      "file": "data/BMY.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "BRK.B Options Walls",
+      "file": "data/BRK.B.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "BSX",
+      "name": "BSX Options Walls",
+      "file": "data/BSX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "BXP",
+      "name": "BXP Options Walls",
+      "file": "data/BXP.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "C",
+      "name": "C Options Walls",
+      "file": "data/C.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CARR",
+      "name": "CARR Options Walls",
+      "file": "data/CARR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CAT",
+      "name": "CAT Options Walls",
+      "file": "data/CAT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CB",
+      "name": "CB Options Walls",
+      "file": "data/CB.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CBRE",
+      "name": "CBRE Options Walls",
+      "file": "data/CBRE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CCI",
+      "name": "CCI Options Walls",
+      "file": "data/CCI.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CCL",
+      "name": "CCL Options Walls",
+      "file": "data/CCL.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CEG",
+      "name": "CEG Options Walls",
+      "file": "data/CEG.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CF",
+      "name": "CF Options Walls",
+      "file": "data/CF.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CHD",
+      "name": "CHD Options Walls",
+      "file": "data/CHD.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CHTR",
+      "name": "CHTR Options Walls",
+      "file": "data/CHTR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CI",
+      "name": "CI Options Walls",
+      "file": "data/CI.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CL",
+      "name": "CL Options Walls",
+      "file": "data/CL.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CLF",
+      "name": "CLF Options Walls",
+      "file": "data/CLF.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CLX",
+      "name": "CLX Options Walls",
+      "file": "data/CLX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CMCSA",
+      "name": "CMCSA Options Walls",
+      "file": "data/CMCSA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CME",
+      "name": "CME Options Walls",
+      "file": "data/CME.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CMG",
+      "name": "CMG Options Walls",
+      "file": "data/CMG.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CMS",
+      "name": "CMS Options Walls",
+      "file": "data/CMS.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CNP",
+      "name": "CNP Options Walls",
+      "file": "data/CNP.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "COF",
+      "name": "COF Options Walls",
+      "file": "data/COF.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "COP",
+      "name": "COP Options Walls",
+      "file": "data/COP.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "COPX",
+      "name": "COPX Options Walls",
+      "file": "data/COPX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "COST",
+      "name": "COST Options Walls",
+      "file": "data/COST.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CPT",
+      "name": "CPT Options Walls",
+      "file": "data/CPT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CRM",
+      "name": "CRM Options Walls",
+      "file": "data/CRM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CSCO",
+      "name": "CSCO Options Walls",
+      "file": "data/CSCO.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CSX",
+      "name": "CSX Options Walls",
+      "file": "data/CSX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CTVA",
+      "name": "CTVA Options Walls",
+      "file": "data/CTVA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CVS",
+      "name": "CVS Options Walls",
+      "file": "data/CVS.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "CVX",
+      "name": "CVX Options Walls",
+      "file": "data/CVX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "D",
+      "name": "D Options Walls",
+      "file": "data/D.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "DBA",
+      "name": "DBA Options Walls",
+      "file": "data/DBA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "DD",
+      "name": "DD Options Walls",
+      "file": "data/DD.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "DE",
+      "name": "DE Options Walls",
+      "file": "data/DE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "DELL",
+      "name": "DELL Options Walls",
+      "file": "data/DELL.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "DG",
+      "name": "DG Options Walls",
+      "file": "data/DG.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "DHR",
+      "name": "DHR Options Walls",
+      "file": "data/DHR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "DIA",
+      "name": "DIA Options Walls",
+      "file": "data/DIA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "DIS",
+      "name": "DIS Options Walls",
+      "file": "data/DIS.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "DLR",
+      "name": "DLR Options Walls",
+      "file": "data/DLR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "DLTR",
+      "name": "DLTR Options Walls",
+      "file": "data/DLTR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "DOW",
+      "name": "DOW Options Walls",
+      "file": "data/DOW.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "DRI",
+      "name": "DRI Options Walls",
+      "file": "data/DRI.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "DTE",
+      "name": "DTE Options Walls",
+      "file": "data/DTE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "DUK",
+      "name": "DUK Options Walls",
+      "file": "data/DUK.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "DVN",
+      "name": "DVN Options Walls",
+      "file": "data/DVN.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "EA",
+      "name": "EA Options Walls",
+      "file": "data/EA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "EBAY",
+      "name": "EBAY Options Walls",
+      "file": "data/EBAY.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ECL",
+      "name": "ECL Options Walls",
+      "file": "data/ECL.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ED",
+      "name": "ED Options Walls",
+      "file": "data/ED.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "EIX",
+      "name": "EIX Options Walls",
+      "file": "data/EIX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "EL",
+      "name": "EL Options Walls",
+      "file": "data/EL.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ELV",
+      "name": "ELV Options Walls",
+      "file": "data/ELV.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "EMR",
+      "name": "EMR Options Walls",
+      "file": "data/EMR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Options Walls",
+      "file": "data/EOG.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "EQIX",
+      "name": "EQIX Options Walls",
+      "file": "data/EQIX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "EQT",
+      "name": "EQT Options Walls",
+      "file": "data/EQT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ES",
+      "name": "ES Options Walls",
+      "file": "data/ES.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ESS",
+      "name": "ESS Options Walls",
+      "file": "data/ESS.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ETHA",
+      "name": "ETHA Options Walls",
+      "file": "data/ETHA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ETN",
+      "name": "ETN Options Walls",
+      "file": "data/ETN.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ETR",
+      "name": "ETR Options Walls",
+      "file": "data/ETR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "EXC",
+      "name": "EXC Options Walls",
+      "file": "data/EXC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "EXR",
+      "name": "EXR Options Walls",
+      "file": "data/EXR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "F",
+      "name": "F Options Walls",
+      "file": "data/F.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "FANG",
+      "name": "FANG Options Walls",
+      "file": "data/FANG.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "FCX",
+      "name": "FCX Options Walls",
+      "file": "data/FCX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "FDX",
+      "name": "FDX Options Walls",
+      "file": "data/FDX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "FE",
+      "name": "FE Options Walls",
+      "file": "data/FE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "FMC",
+      "name": "FMC Options Walls",
+      "file": "data/FMC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "FOXA",
+      "name": "FOXA Options Walls",
+      "file": "data/FOXA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "FTNT",
+      "name": "FTNT Options Walls",
+      "file": "data/FTNT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "GE",
+      "name": "GE Options Walls",
+      "file": "data/GE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "GILD",
+      "name": "GILD Options Walls",
+      "file": "data/GILD.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "GIS",
+      "name": "GIS Options Walls",
+      "file": "data/GIS.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "GLD",
+      "name": "GLD Options Walls",
+      "file": "data/GLD.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "GM",
+      "name": "GM Options Walls",
+      "file": "data/GM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "GOOGL Options Walls",
+      "file": "data/GOOGL.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "GS",
+      "name": "GS Options Walls",
+      "file": "data/GS.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "GWW",
+      "name": "GWW Options Walls",
+      "file": "data/GWW.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "HAL",
+      "name": "HAL Options Walls",
+      "file": "data/HAL.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "HD",
+      "name": "HD Options Walls",
+      "file": "data/HD.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "HON",
+      "name": "HON Options Walls",
+      "file": "data/HON.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "HSY",
+      "name": "HSY Options Walls",
+      "file": "data/HSY.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "HUM",
+      "name": "HUM Options Walls",
+      "file": "data/HUM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "IBIT",
+      "name": "IBIT Options Walls",
+      "file": "data/IBIT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "IBM",
+      "name": "IBM Options Walls",
+      "file": "data/IBM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ICE",
+      "name": "ICE Options Walls",
+      "file": "data/ICE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "INTC Options Walls",
+      "file": "data/INTC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "INTU",
+      "name": "INTU Options Walls",
+      "file": "data/INTU.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "INVH",
+      "name": "INVH Options Walls",
+      "file": "data/INVH.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "IP",
+      "name": "IP Options Walls",
+      "file": "data/IP.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "IRM",
+      "name": "IRM Options Walls",
+      "file": "data/IRM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ISRG",
+      "name": "ISRG Options Walls",
+      "file": "data/ISRG.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ITA",
+      "name": "ITA Options Walls",
+      "file": "data/ITA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "IYT",
+      "name": "IYT Options Walls",
+      "file": "data/IYT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "JCI",
+      "name": "JCI Options Walls",
+      "file": "data/JCI.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "JNJ",
+      "name": "JNJ Options Walls",
+      "file": "data/JNJ.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPM Options Walls",
+      "file": "data/JPM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "KIM",
+      "name": "KIM Options Walls",
+      "file": "data/KIM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "KMB",
+      "name": "KMB Options Walls",
+      "file": "data/KMB.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "KMI",
+      "name": "KMI Options Walls",
+      "file": "data/KMI.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "KO",
+      "name": "KO Options Walls",
+      "file": "data/KO.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "KR",
+      "name": "KR Options Walls",
+      "file": "data/KR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "KRE",
+      "name": "KRE Options Walls",
+      "file": "data/KRE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "LEN",
+      "name": "LEN Options Walls",
+      "file": "data/LEN.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "LIN",
+      "name": "LIN Options Walls",
+      "file": "data/LIN.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "LLY",
+      "name": "LLY Options Walls",
+      "file": "data/LLY.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "LMT",
+      "name": "LMT Options Walls",
+      "file": "data/LMT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "LNG",
+      "name": "LNG Options Walls",
+      "file": "data/LNG.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "LOW",
+      "name": "LOW Options Walls",
+      "file": "data/LOW.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "LRCX",
+      "name": "LRCX Options Walls",
+      "file": "data/LRCX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "LULU",
+      "name": "LULU Options Walls",
+      "file": "data/LULU.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "LYV",
+      "name": "LYV Options Walls",
+      "file": "data/LYV.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MA",
+      "name": "MA Options Walls",
+      "file": "data/MA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MAA",
+      "name": "MAA Options Walls",
+      "file": "data/MAA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MAR",
+      "name": "MAR Options Walls",
+      "file": "data/MAR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MCD",
+      "name": "MCD Options Walls",
+      "file": "data/MCD.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MCK",
+      "name": "MCK Options Walls",
+      "file": "data/MCK.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MDLZ",
+      "name": "MDLZ Options Walls",
+      "file": "data/MDLZ.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MDT",
+      "name": "MDT Options Walls",
+      "file": "data/MDT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MET",
+      "name": "MET Options Walls",
+      "file": "data/MET.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "META Options Walls",
+      "file": "data/META.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MGM",
+      "name": "MGM Options Walls",
+      "file": "data/MGM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MLM",
+      "name": "MLM Options Walls",
+      "file": "data/MLM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MMM",
+      "name": "MMM Options Walls",
+      "file": "data/MMM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MNST",
+      "name": "MNST Options Walls",
+      "file": "data/MNST.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MO",
+      "name": "MO Options Walls",
+      "file": "data/MO.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MOS",
+      "name": "MOS Options Walls",
+      "file": "data/MOS.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MP",
+      "name": "MP Options Walls",
+      "file": "data/MP.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "MPC Options Walls",
+      "file": "data/MPC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MRK",
+      "name": "MRK Options Walls",
+      "file": "data/MRK.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MRNA",
+      "name": "MRNA Options Walls",
+      "file": "data/MRNA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MS",
+      "name": "MS Options Walls",
+      "file": "data/MS.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "name": "MSFT Options Walls",
+      "file": "data/MSFT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MTCH",
+      "name": "MTCH Options Walls",
+      "file": "data/MTCH.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "MU Options Walls",
+      "file": "data/MU.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "MUR",
+      "name": "MUR Options Walls",
+      "file": "data/MUR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "NEE",
+      "name": "NEE Options Walls",
+      "file": "data/NEE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "NEM",
+      "name": "NEM Options Walls",
+      "file": "data/NEM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "NFLX",
+      "name": "NFLX Options Walls",
+      "file": "data/NFLX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "NKE",
+      "name": "NKE Options Walls",
+      "file": "data/NKE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "NOC",
+      "name": "NOC Options Walls",
+      "file": "data/NOC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "NOW",
+      "name": "NOW Options Walls",
+      "file": "data/NOW.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "NRG",
+      "name": "NRG Options Walls",
+      "file": "data/NRG.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "NSC",
+      "name": "NSC Options Walls",
+      "file": "data/NSC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "NUE",
+      "name": "NUE Options Walls",
+      "file": "data/NUE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVDA Options Walls",
+      "file": "data/NVDA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "NWSA",
+      "name": "NWSA Options Walls",
+      "file": "data/NWSA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "NYT",
+      "name": "NYT Options Walls",
+      "file": "data/NYT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "O",
+      "name": "O Options Walls",
+      "file": "data/O.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "OKE",
+      "name": "OKE Options Walls",
+      "file": "data/OKE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "OMC",
+      "name": "OMC Options Walls",
+      "file": "data/OMC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "name": "ORCL Options Walls",
+      "file": "data/ORCL.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "OVV",
+      "name": "OVV Options Walls",
+      "file": "data/OVV.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "OXY",
+      "name": "OXY Options Walls",
+      "file": "data/OXY.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PANW",
+      "name": "PANW Options Walls",
+      "file": "data/PANW.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PCAR",
+      "name": "PCAR Options Walls",
+      "file": "data/PCAR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PEG",
+      "name": "PEG Options Walls",
+      "file": "data/PEG.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PEP",
+      "name": "PEP Options Walls",
+      "file": "data/PEP.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PFE",
+      "name": "PFE Options Walls",
+      "file": "data/PFE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PG",
+      "name": "PG Options Walls",
+      "file": "data/PG.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PGR",
+      "name": "PGR Options Walls",
+      "file": "data/PGR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PH",
+      "name": "PH Options Walls",
+      "file": "data/PH.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PHM",
+      "name": "PHM Options Walls",
+      "file": "data/PHM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PINS",
+      "name": "PINS Options Walls",
+      "file": "data/PINS.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PKG",
+      "name": "PKG Options Walls",
+      "file": "data/PKG.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PLD",
+      "name": "PLD Options Walls",
+      "file": "data/PLD.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "name": "PLTR Options Walls",
+      "file": "data/PLTR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PM",
+      "name": "PM Options Walls",
+      "file": "data/PM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PNC",
+      "name": "PNC Options Walls",
+      "file": "data/PNC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PPG",
+      "name": "PPG Options Walls",
+      "file": "data/PPG.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PPL",
+      "name": "PPL Options Walls",
+      "file": "data/PPL.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PSA",
+      "name": "PSA Options Walls",
+      "file": "data/PSA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PSKY",
+      "name": "PSKY Options Walls",
+      "file": "data/PSKY.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PSX",
+      "name": "PSX Options Walls",
+      "file": "data/PSX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "PYPL",
+      "name": "PYPL Options Walls",
+      "file": "data/PYPL.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "name": "QCOM Options Walls",
+      "file": "data/QCOM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "QQQ",
+      "name": "QQQ Options Walls",
+      "file": "data/QQQ.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "RBLX",
+      "name": "RBLX Options Walls",
+      "file": "data/RBLX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "RCL",
+      "name": "RCL Options Walls",
+      "file": "data/RCL.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "REG",
+      "name": "REG Options Walls",
+      "file": "data/REG.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "REGN",
+      "name": "REGN Options Walls",
+      "file": "data/REGN.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ROST",
+      "name": "ROST Options Walls",
+      "file": "data/ROST.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "RRC",
+      "name": "RRC Options Walls",
+      "file": "data/RRC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "RTX",
+      "name": "RTX Options Walls",
+      "file": "data/RTX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SBAC",
+      "name": "SBAC Options Walls",
+      "file": "data/SBAC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SBUX",
+      "name": "SBUX Options Walls",
+      "file": "data/SBUX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SCHW",
+      "name": "SCHW Options Walls",
+      "file": "data/SCHW.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SHW",
+      "name": "SHW Options Walls",
+      "file": "data/SHW.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SIRI",
+      "name": "SIRI Options Walls",
+      "file": "data/SIRI.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SLB",
+      "name": "SLB Options Walls",
+      "file": "data/SLB.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SLV",
+      "name": "SLV Options Walls",
+      "file": "data/SLV.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SMH",
+      "name": "SMH Options Walls",
+      "file": "data/SMH.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SNAP",
+      "name": "SNAP Options Walls",
+      "file": "data/SNAP.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SO",
+      "name": "SO Options Walls",
+      "file": "data/SO.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SPG",
+      "name": "SPG Options Walls",
+      "file": "data/SPG.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SPGI",
+      "name": "SPGI Options Walls",
+      "file": "data/SPGI.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SPOT",
+      "name": "SPOT Options Walls",
+      "file": "data/SPOT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SPX",
+      "name": "SPX Options Walls",
+      "file": "data/SPX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SRE",
+      "name": "SRE Options Walls",
+      "file": "data/SRE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "STLD",
+      "name": "STLD Options Walls",
+      "file": "data/STLD.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "STZ",
+      "name": "STZ Options Walls",
+      "file": "data/STZ.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SYK",
+      "name": "SYK Options Walls",
+      "file": "data/SYK.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "SYY",
+      "name": "SYY Options Walls",
+      "file": "data/SYY.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "T",
+      "name": "T Options Walls",
+      "file": "data/T.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "TFC",
+      "name": "TFC Options Walls",
+      "file": "data/TFC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "TGT",
+      "name": "TGT Options Walls",
+      "file": "data/TGT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "TJX",
+      "name": "TJX Options Walls",
+      "file": "data/TJX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "TMO",
+      "name": "TMO Options Walls",
+      "file": "data/TMO.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "TMUS",
+      "name": "TMUS Options Walls",
+      "file": "data/TMUS.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "TRGP",
+      "name": "TRGP Options Walls",
+      "file": "data/TRGP.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "TSLA Options Walls",
+      "file": "data/TSLA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "TSN",
+      "name": "TSN Options Walls",
+      "file": "data/TSN.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "TT",
+      "name": "TT Options Walls",
+      "file": "data/TT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "TTWO",
+      "name": "TTWO Options Walls",
+      "file": "data/TTWO.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "TXN",
+      "name": "TXN Options Walls",
+      "file": "data/TXN.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "UDR",
+      "name": "UDR Options Walls",
+      "file": "data/UDR.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "UNG",
+      "name": "UNG Options Walls",
+      "file": "data/UNG.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "UNH",
+      "name": "UNH Options Walls",
+      "file": "data/UNH.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "UNP",
+      "name": "UNP Options Walls",
+      "file": "data/UNP.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "UPS",
+      "name": "UPS Options Walls",
+      "file": "data/UPS.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "URA",
+      "name": "URA Options Walls",
+      "file": "data/URA.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "URI",
+      "name": "URI Options Walls",
+      "file": "data/URI.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "USB",
+      "name": "USB Options Walls",
+      "file": "data/USB.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "USO",
+      "name": "USO Options Walls",
+      "file": "data/USO.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "V",
+      "name": "V Options Walls",
+      "file": "data/V.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "VICI",
+      "name": "VICI Options Walls",
+      "file": "data/VICI.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "VIX",
+      "name": "VIX Options Walls",
+      "file": "data/VIX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "VLO",
+      "name": "VLO Options Walls",
+      "file": "data/VLO.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "VMC",
+      "name": "VMC Options Walls",
+      "file": "data/VMC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "VRTX",
+      "name": "VRTX Options Walls",
+      "file": "data/VRTX.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "VST",
+      "name": "VST Options Walls",
+      "file": "data/VST.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "VZ",
+      "name": "VZ Options Walls",
+      "file": "data/VZ.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "WBD",
+      "name": "WBD Options Walls",
+      "file": "data/WBD.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "WDC",
+      "name": "WDC Options Walls",
+      "file": "data/WDC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "WEC",
+      "name": "WEC Options Walls",
+      "file": "data/WEC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "WELL",
+      "name": "WELL Options Walls",
+      "file": "data/WELL.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "WFC",
+      "name": "WFC Options Walls",
+      "file": "data/WFC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "WM",
+      "name": "WM Options Walls",
+      "file": "data/WM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "WMB",
+      "name": "WMB Options Walls",
+      "file": "data/WMB.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "WMT",
+      "name": "WMT Options Walls",
+      "file": "data/WMT.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "WY",
+      "name": "WY Options Walls",
+      "file": "data/WY.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "XBI",
+      "name": "XBI Options Walls",
+      "file": "data/XBI.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "XEL",
+      "name": "XEL Options Walls",
+      "file": "data/XEL.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "XLB",
+      "name": "XLB Options Walls",
+      "file": "data/XLB.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "XLC",
+      "name": "XLC Options Walls",
+      "file": "data/XLC.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "XLE",
+      "name": "XLE Options Walls",
+      "file": "data/XLE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "XLF",
+      "name": "XLF Options Walls",
+      "file": "data/XLF.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "XLI",
+      "name": "XLI Options Walls",
+      "file": "data/XLI.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "XLK",
+      "name": "XLK Options Walls",
+      "file": "data/XLK.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "XLP",
+      "name": "XLP Options Walls",
+      "file": "data/XLP.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "XLRE",
+      "name": "XLRE Options Walls",
+      "file": "data/XLRE.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "XLU",
+      "name": "XLU Options Walls",
+      "file": "data/XLU.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "XLV",
+      "name": "XLV Options Walls",
+      "file": "data/XLV.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "XLY",
+      "name": "XLY Options Walls",
+      "file": "data/XLY.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "XME",
+      "name": "XME Options Walls",
+      "file": "data/XME.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "XOM",
+      "name": "XOM Options Walls",
+      "file": "data/XOM.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    },
+    {
+      "symbol": "ticker",
+      "name": "ticker Options Walls",
+      "file": "data/ticker.csv",
+      "fields": [
+        "CallWall",
+        "PutWall"
+      ]
+    }
+  ]
+}
